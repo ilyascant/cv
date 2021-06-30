@@ -1,3 +1,3 @@
 # cv
 
-[DEMO](https://ilyascant.github.io/cv_old_1/)
+[DEMO](https://ilyascant.github.io/cv_old_2/)
